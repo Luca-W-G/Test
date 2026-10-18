@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mein erstes GitHub-Projekt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="karte">
+        <h1>Mein erstes GitHub-Projekt</h1>
+        <p>Willkommen auf meiner ersten eigenen Webseite!</p>
+
+        <h2>Mein Klick-Zähler</h2>
+        <p id="zaehler">0</p>
+
+        <button id="knopf">Klick mich!</button>
+
+        <p class="hinweis">Diese Webseite liegt auf GitHub.</p>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
